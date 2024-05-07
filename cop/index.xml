@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Call for Submissions | ESSC</title><link>https://example.com/cop/</link><atom:link href="https://example.com/cop/index.xml" rel="self" type="application/rss+xml"/><description>Call for Submissions</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Call for Submissions</title><link>https://example.com/cop/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Call for Submissions | ESSC</title><link>https://example.com/cop/</link><atom:link href="https://example.com/cop/index.xml" rel="self" type="application/rss+xml"/><description>Call for Submissions</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Call for Submissions</title><link>https://example.com/cop/</link></image><item><title>Call for Submissions</title><link>https://example.com/cop/_index2023/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://example.com/cop/_index2023/</guid><description>&lt;div style="text-align: justify"> The embedded systems research software competition at ESWEEK invites submissions of novel software tools
+that are either developed standalone or as part of recent research papers.
+Implementations from student research
+projects are also welcome. Submissions will go through a round of peer reviews and authors of selected
+submissions will be invited to present their tools at ESWEEK.
+&lt;/div>
+&lt;h2 id="topic-areas-for-the-software-tools">Topic areas for the software tools&lt;/h2>
+&lt;p>All areas relevant to ESWEEK are also applicable here. These include but are not limited to:&lt;/p>
+&lt;ul>
+&lt;li>AI embedded systems and Applications of AI at Edge&lt;/li>
+&lt;li>Embedded Systems and IoT/CPS Security, Safety, Reliability, and Energy-Efficiency&lt;/li>
+&lt;li>Memory and storage&lt;/li>
+&lt;li>Accelerators, emerging technologies, and applications&lt;/li>
+&lt;li>Architectures, compilers, system-level design&lt;/li>
+&lt;li>Programming languages and compilers for embedded systems&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: justify"> Submissions can be focused on simulation, emulation, design space exploration,
+automatic design of embedded systems, or other topics related to embedded systems.
+There are no constraints on the programming language for tools.
+Verilog or VHDL-based implementations are also within the scope of this competition.
+Submissions may either be part of an ESWEEK 2023 research submission or tools previously published on GitHub, GitLab etc.
+&lt;/div>
+&lt;h2 id="submission-format">Submission format&lt;/h2>
+&lt;ul>
+&lt;li>Source code in zipped archive format.&lt;/li>
+&lt;li>A description of the tool, novel contributions, description of the algorithms used, and usage (ACM Conference template, maximum four pages).&lt;/li>
+&lt;li>Instructions to install and execute the tool, including dependencies (ascii format).&lt;/li>
+&lt;li>Test benches and example use cases to run/evaluate the code.&lt;/li>
+&lt;li>Short video demonstration of the tool (10 minutes max).&lt;/li>
+&lt;/ul>
+&lt;p>Submissions to the contest will be handled via the &lt;a href="https://softconf.com/esweek23/sc/" target="_blank" rel="noopener noreferrer">Softconf&lt;/a> website.
+Each submission includes title, abstract, PDF describing the tool (4 pages maximum), and a link to the source code.
+Source code can be hosted on GitHub, GitLab, BitBucket, Google drive, One drive, Dropbox (or any equivalent option).
+It is the author&amp;rsquo;s responsibility to make sure that the code and related files are accessible by anyone using the shared link.
+Accessing the files should not require any additional permissions that can disclose the identity of reviewers. We highly encourage the authors to keep their tools open-source once it is accepted at ESWEEK.&lt;/p>
+&lt;!---
+To make a new submission, authors must use the softconf portal similar to a regular ESWEEK paper submission. However, the codes and other files should not be submitted via softconf. To submit the code and related files, authors can use Github, Google drive, One drive (or any equivalent option). The link to the files can then be shared in the softconf submission portal. It is the author's responsibility to make sure that the code and related files are accessible by anyone using the shared link. Accessing the files should not require any additional permissions that can disclose the identity of reviewers. We highly encourage the authors to keep their tools open-source once it is accepted at ESWEEK.
+-->
+&lt;h2 id="selection-process">Selection Process&lt;/h2>
+&lt;p>Submissions will be reviewed by the contest chairs and external reviewers.
+The review process will be single blind and authors are prohibited from making references to any ESWEEK papers currently under review.
+The following criteria will be used in evaluations.&lt;/p>
+&lt;ul>
+&lt;li>Novelty and impact of the tool as summarized in the 4 page (maximum) submission. Please note that submissions with fewer than four pages will be given equal consideration.&lt;/li>
+&lt;li>Video demonstration provided by the authors.&lt;/li>
+&lt;li>Ease of usage; clarity of code and extensibility i.e., ease of adding new modules.&lt;/li>
+&lt;/ul>
+&lt;p>Selected tools will also be invited to submit a manuscript as a ‘&lt;a href="https://dl.acm.org/journal/todaes/paper-submission-categories" target="_blank" rel="noopener noreferrer">Designer Note&lt;/a>’ focused on the software tool,
+to a special issue in
+&lt;a href="https://dl.acm.org/journal/todaes" target="_blank" rel="noopener noreferrer">ACM Transactions on Design Automation of Electronic Systems (TODAES)&lt;/a>.
+Submissions to TODAES special issue will go through the standard review process of ACM TODAES before acceptance.&lt;/p></description></item></channel></rss>
